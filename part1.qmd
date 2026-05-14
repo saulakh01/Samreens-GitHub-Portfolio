@@ -1,0 +1,10 @@
+---
+title: "Part 1"
+format: html
+---
+
+### Data Description
+
+My data source is field data collected by Dr. Alison Haupt's capstone class for 2026 and 2023.
+
+The variables of my data include
