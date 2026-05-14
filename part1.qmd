@@ -7,4 +7,24 @@ format: html
 
 My data source is field data collected by Dr. Alison Haupt's capstone class for 2026 and 2023.
 
-The variables of my data include
+The variables of my data include sites, year, black abalone counts, crevice sizes, and black abalone found in crevices.
+
+How has habitat availibilty affected abalone populations across the Monterey Bay between 2023 and 2026?
+
+### Data Visualization
+
+Final visualizations will include box-plots showing the frequencies of abalones at different sites.
+
+### Data Cleaning
+
+1.  Do you need to reformat any variables into different types (e.g. factors, time, dates, strings)? Or remove information from variable values?
+
+    -   Yes
+
+2.  Do you need to deal with any missing data, especially missing data coded other than NA?
+
+    -   Yes
+
+3.  Do you need to filter your data?
+
+    -   Yes
